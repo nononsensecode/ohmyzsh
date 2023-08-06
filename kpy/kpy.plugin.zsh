@@ -1,1 +1,1 @@
-pvenv='python3 -m venv'
+alias pvenv='python3 -m venv'
