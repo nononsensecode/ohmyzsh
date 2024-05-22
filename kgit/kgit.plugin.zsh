@@ -7,4 +7,3 @@ alias clone='git clone'
 func feat() {
   git checkout -b "feature/DHP-"$1
 }
-
